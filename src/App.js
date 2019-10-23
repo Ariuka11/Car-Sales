@@ -31,10 +31,7 @@ const App = (props) => {
   const addFeature = item => {
     props.addFeature(item)
   };
-
-  const updateTotal = () => {
-
-  }
+  
 
   return (
     <div className="boxes">
